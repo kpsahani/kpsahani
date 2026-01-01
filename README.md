@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi, I'm Kundan Sahani
 
-<!--
-**kpsahani/kpsahani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Full-Stack Engineer | React • Node.js • MongoDB • Redis  
+🧠 Exploring AI, System Design & Scalable Architectures  
+🏗️ Building real-world products in FinTech, Sports Betting & B2B Platforms  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About Me
+- 6+ years of experience in full-stack development
+- Strong in **React, Redux Toolkit, Node.js, MongoDB, MySQL**
+- Built **enterprise-grade dashboards, betting platforms & ERPs**
+- Currently learning **AI / LLMs / Agentic Systems**
+- Passionate about **clean architecture & performance**
+
+---
+
+## 🛠️ Tech Stack
+**Frontend:** React, Redux Toolkit, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Express, Laravel  
+**Databases:** MongoDB, MySQL, Redis  
+**DevOps:** Docker, Nginx, Linux  
+**Others:** RabbitMQ, REST APIs, System Design
+
+---
+
+## 📌 Featured Projects
+🔹 **Sports Betting Event Platform**  
+> Live events, markets, odds, admin control, high-performance UI  
+Tech: React, Node, MongoDB
+
+🔹 **B2B Vendor Management ERP**  
+> Vendor tiers, dynamic pricing, admin rules engine  
+Tech: Node.js, MySQL, Redis
+
+🔹 **Retailer Sales & Order App**  
+> QR payments, ISR tracking, Marg integration  
+Tech: React, Node, MongoDB
+
+---
+
+## 📈 Current Focus
+- AI & LLM integration into products
+- Scalable backend architectures
+- Security & performance optimization
+
+---
+
+📫 **Connect with me**  
+🌐 https://linkedin.com/in/kpsahani
