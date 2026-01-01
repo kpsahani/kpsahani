@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kundan Sahani
 
-🚀 Senior Full-Stack Engineer | React • Node.js • MongoDB • Redis  
+🚀 Senior Full-Stack Engineer | AWS • React • Node.js • MongoDB • Redis  
 🧠 Exploring AI, System Design & Scalable Architectures  
 🏗️ Building real-world products in FinTech, Sports Betting & B2B Platforms  
 
@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 - 6+ years of experience in full-stack development
-- Strong in **React, Redux Toolkit, Node.js, MongoDB, MySQL**
+- Strong in **Express, React, Vue, NextJs, Redux Toolkit, Node.js, MongoDB, MySQL**
 - Built **enterprise-grade dashboards, betting platforms & ERPs**
 - Currently learning **AI / LLMs / Agentic Systems**
 - Passionate about **clean architecture & performance**
