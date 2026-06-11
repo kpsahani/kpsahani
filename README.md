@@ -1,50 +1,153 @@
-# 👋 Hi, I'm Kundan Sahani
+# Hi, I'm Kundan Sahani 👋
 
-🚀 Senior Full-Stack Engineer | AWS • React • Node.js • MongoDB • Redis  
-🧠 Exploring AI, System Design & Scalable Architectures  
-🏗️ Building real-world products in FinTech, Sports Betting & B2B Platforms  
+### Senior Software Engineer | Full-Stack Architect | Cloud & Scalable Systems
 
----
+I design and build high-performance products used by thousands of users across FinTech, Sports Betting, iGaming, ERP, and B2B domains.
 
-## 🧑‍💻 About Me
-- 6+ years of experience in full-stack development
-- Strong in **Express, React, Vue, NextJs, Redux Toolkit, Node.js, MongoDB, MySQL**
-- Built **enterprise-grade dashboards, betting platforms & ERPs**
-- Currently learning **AI / LLMs / Agentic Systems**
-- Passionate about **clean architecture & performance**
+With 7+ years of engineering experience, I specialize in building scalable web applications, distributed systems, real-time platforms, and cloud-native solutions.
 
 ---
 
-## 🛠️ Tech Stack
-**Frontend:** React, Redux Toolkit, Tailwind CSS, shadcn/ui  
-**Backend:** Node.js, Express, Laravel  
-**Databases:** MongoDB, MySQL, Redis  
-**DevOps:** Docker, Nginx, Linux  
-**Others:** RabbitMQ, REST APIs, System Design
+## 🚀 What I Do
+
+• Architect scalable frontend and backend systems
+
+• Build real-time applications using WebSockets and event-driven architecture
+
+• Design high-performance APIs and distributed systems
+
+• Lead product development from idea to production
+
+• Optimize applications for reliability, performance, and security
+
+• Integrate AI and automation into business workflows
+
+---
+
+## 💼 Industry Experience
+
+✔ Sports Betting & iGaming Platforms
+
+✔ FinTech Applications
+
+✔ Enterprise ERP Systems
+
+✔ B2B SaaS Platforms
+
+✔ E-Commerce Solutions
+
+✔ AI-Powered Applications
+
+---
+
+## 🛠 Core Technologies
+
+### Frontend
+
+React • Next.js • TypeScript • Redux Toolkit • Tailwind CSS • Shadcn UI
+
+### Backend
+
+Node.js • Express.js • NestJS • Laravel • Python
+
+### Databases
+
+MongoDB • MySQL • Redis
+
+### Cloud & DevOps
+
+AWS • Docker • Linux • Nginx • CI/CD
+
+### Architecture
+
+Microservices • Event-Driven Systems • WebSockets • RabbitMQ
+
+Caching • System Design • Scalability • Security
+
+---
+
+## 🔥 Key Engineering Areas
+
+- Frontend Architecture
+- Distributed Systems
+- Real-Time Data Streaming
+- Cloud Architecture
+- Performance Engineering
+- Security Best Practices
+- AI Integration
+- Technical Leadership
 
 ---
 
 ## 📌 Featured Projects
-🔹 **Sports Betting Event Platform**  
-> Live events, markets, odds, admin control, high-performance UI  
-Tech: React, Node, MongoDB
 
-🔹 **B2B Vendor Management ERP**  
-> Vendor tiers, dynamic pricing, admin rules engine  
-Tech: Node.js, MySQL, Redis
+### Sportsbook & iGaming Platform
 
-🔹 **Retailer Sales & Order App**  
-> QR payments, ISR tracking, Marg integration  
-Tech: React, Node, MongoDB
+Enterprise-grade sports betting ecosystem with:
 
----
+- Real-time odds streaming
+- Bet Slip Engine
+- Bonus Management System
+- Risk Management
+- Admin Operations
 
-## 📈 Current Focus
-- AI & LLM integration into products
-- Scalable backend architectures
-- Security & performance optimization
+**Stack:** React, Node.js, MongoDB, Redis, WebSockets
 
 ---
 
-📫 **Connect with me**  
-🌐 https://linkedin.com/in/kpsahani
+### Vendor Management ERP
+
+Large-scale B2B ERP solution featuring:
+
+- Dynamic Pricing Engine
+- Vendor Tier Management
+- Workflow Automation
+- Reporting Dashboard
+
+**Stack:** Node.js, MySQL, Redis
+
+---
+
+### Retail Sales & Distribution Platform
+
+End-to-end retailer ecosystem with:
+
+- Order Management
+- QR Payments
+- Sales Tracking
+- Inventory Synchronization
+
+**Stack:** React, Node.js, MongoDB
+
+---
+
+## 🌱 Currently Exploring
+
+- Agentic AI Systems
+- AI-Powered Automation
+- LLM Applications
+- Advanced System Design
+- Reliability Engineering
+- Platform Engineering
+
+---
+
+## 📚 Engineering Interests
+
+System Design • Distributed Systems • Cloud Computing
+
+Developer Productivity • Product Engineering
+
+AI Applications • Platform Architecture
+
+---
+
+## 🤝 Let's Connect
+
+LinkedIn: https://linkedin.com/in/kpsahani
+
+Open to:
+- Senior Software Engineer Roles
+- Tech Lead Opportunities
+- Solution Architect Positions
+- Remote Engineering Teams
